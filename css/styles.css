@@ -1,6 +1,9 @@
 .panda-bg-info {
 	background-color: #fceae8;
 }
+.price {
+	color: rgb(197, 61, 114);
+}
 .categories img {
 	width: 100px;
 }
